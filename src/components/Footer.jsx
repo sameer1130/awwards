@@ -1,4 +1,4 @@
-/*eslint-disable */
+
 
 import { FaDiscord, FaGithub, FaInstagram, FaTwitch, FaTwitter } from "react-icons/fa";
 
